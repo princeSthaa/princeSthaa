@@ -45,35 +45,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princesthaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesthaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="165" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 📊 [DSA Visualizer](https://github.com/princeSthaa/dsa-visualizer)
-Interactive application for visualizing Data Structures and Algorithms.
-- **Tech**: Java, Spring Boot, HTML, CSS, JavaScript
-- **Highlights**: Clean UI, educational focus, real-time visualization
-
-### 🧠 Algorithm Practice
-Collection of optimized DSA solutions written in Java.
-- **Topics**: Arrays, Strings, Trees, Graphs, Dynamic Programming
-- **Goal**: Interview readiness & strong fundamentals
-
-### 🔐 Backend REST APIs
-Scalable backend services built using Spring Boot.
-- **Concepts**: MVC, DTO, validation, exception handling
-- **Focus**: Clean architecture & maintainability
-
----
-
 ## 🎯 Current Focus
 
 - 🔭 **Deep diving** into Spring Boot internals & JVM
@@ -83,24 +54,22 @@ Scalable backend services built using Spring Boot.
 
 ---
 
-## 🏆 Achievements
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=princestha&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/princestha">
+  <a href="https://github.com/princestha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/prince-raj-shrestha-716a21281/">
+
+  <a href="https://www.linkedin.com/in/prince-raj-shrestha-716a21281/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://wa.me/9779814076528" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
