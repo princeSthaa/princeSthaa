@@ -99,7 +99,12 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=princestha&color=00D9FF&style=flat-square&label=Profile+Views" />
+</p>
 
 <p align="center">
-  <em>"Learn deeply. Build consistently."</em>
+  <em>"Clean code, strong fundamentals, building real-world projects."</em> ☕
 </p>
+
+
