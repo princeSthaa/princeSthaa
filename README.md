@@ -1,4 +1,4 @@
-# Prince Raj Shrestha — Developer 🚀
+# Prince Raj Shrestha — A Developer 💻
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Prince!+%F0%9F%91%8B;Developer;Building+Real+World+Projects;Focused+on+Strong+Fundamentals" alt="Typing SVG" />
