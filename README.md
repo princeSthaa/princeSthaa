@@ -63,14 +63,6 @@
 
 ---
 
-## 🚀 Projects
-
-* 🔹 Built scraping tools to extract structured data from websites
-* 🔹 Worked on machine learning models for prediction tasks
-* 🔹 Practiced DSA problems focusing on efficiency and logic
-
----
-
 ## 📈 What I’m Improving
 
 * Writing **robust code (error handling, edge cases)**
