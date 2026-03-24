@@ -58,7 +58,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UV-4ECDC4?style=for-the-badge&label=UV&logoColor=white" />
+  <img src="https://img.shields.io/badge/UV-4ECDC4?style=for-the-badge" />
 </p>
 
 ---
