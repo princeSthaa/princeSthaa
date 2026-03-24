@@ -82,7 +82,10 @@
 
 ## 🎯 Goal
 
-> Become an industry-ready developer by building strong fundamentals and real-world projects.
+- 🔭 **Building real-world projects** to strengthen coding and problem-solving skills
+- 🌱 **Learning data workflows, automation, and Python tools** for practical applications
+- 👯 **Practicing DSA daily** to improve logic, efficiency, and algorithmic thinking
+- 💡 **Goal:** Become an adaptable developer who can turn ideas into working software
 
 ---
 
