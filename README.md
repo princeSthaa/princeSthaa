@@ -54,6 +54,11 @@
   <img src="https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge" />
 </p>
 
+### Tools
+- Git
+- Poetry
+- uv (Python project scaffolding)
+- Uvicorn (async web server for APIs)
 ---
 
 ## 🚀 Projects
